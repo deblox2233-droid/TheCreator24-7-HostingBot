@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "MineHiking.aternos.me:",
+    "ip": "MineHiking.aternos.me",
     "port": 58964,
     "version": "",
     "try-creative": false
